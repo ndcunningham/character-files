@@ -1,5 +1,5 @@
 // Uncomment this line to use CSS modules
-import FileDownload from 'src/components/FileDownload';
+import { FileDownload } from '../components/FileDownload';
 import { FileItem } from '../types/file-item';
 import styles from './app.module.scss';
   
